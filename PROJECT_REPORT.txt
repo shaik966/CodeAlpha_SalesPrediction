@@ -1,0 +1,31 @@
+==================================================
+📈 SALES PREDICTION USING PYTHON
+==================================================
+
+✅ Project completed successfully using Python and Machine Learning techniques.
+
+📊 Models Used:
+🔹 Linear Regression
+🔹 Random Forest Regressor
+
+📈 Random Forest achieved better prediction accuracy.
+
+🎯 Features Included:
+✔ Data Cleaning
+✔ Data Visualization
+✔ Correlation Analysis
+✔ Sales Prediction
+✔ Machine Learning Model Comparison
+
+📉 Visualizations Included:
+✔ Actual vs Predicted Sales Graph
+✔ Correlation Heatmap
+✔ TV Advertising Analysis
+✔ Sales Distribution Analysis
+
+🏆 Project developed for CodeAlpha Internship
+
+👨‍💻 Developed By:
+Shaik Numaan
+
+==================================================
